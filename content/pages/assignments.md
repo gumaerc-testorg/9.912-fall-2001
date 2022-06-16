@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on a writing assignment for graduate
+  level credit in the class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
